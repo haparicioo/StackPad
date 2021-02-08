@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace StackPad
+namespace StackPad.Views
 {
     public class MainWindow : Window
     {
