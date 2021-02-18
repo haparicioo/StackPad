@@ -2,9 +2,9 @@ using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 
-using StackPad.Views;
+using UserInterface.Views;
 
-namespace StackPad
+namespace UserInterface
 {
     public class App : Application
     {
